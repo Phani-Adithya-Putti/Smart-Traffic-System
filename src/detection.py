@@ -4,4 +4,3 @@ from ultralytics import YOLO
 import os 
 import matplotlib.pyplot as plt
 
-print("Detection module loaded successfully.")
