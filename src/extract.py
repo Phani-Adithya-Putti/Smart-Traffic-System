@@ -45,12 +45,12 @@ def extract_frames(video_dir, output_dir, frame_interval=10):
 
 extract_frames(
     "data/video_dataset/train",
-    "data/yolo_dataset/images/train",
+    "data/yolo_dataset/train",
     frame_interval=10
 )
 
 extract_frames(
     "data/video_dataset/val",
-    "data/yolo_dataset/images/val",
+    "data/yolo_dataset/val",
     frame_interval=10
 )

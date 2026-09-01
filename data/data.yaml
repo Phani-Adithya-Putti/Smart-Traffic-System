@@ -1,0 +1,10 @@
+path: '/Users/adithyaputti/CS Projects/Smart-Traffic-System/data/yolo_dataset'
+
+train: train
+val: val
+
+names:
+  0: car
+  1: truck
+  2: bus
+  3: motorcycle
